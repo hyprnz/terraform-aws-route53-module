@@ -4,6 +4,5 @@ variable "zone_name" {
 
 variable "tags" {
   description = " any tags to add to hosted zone"
-  default = {}
+  default     = {}
 }
-
