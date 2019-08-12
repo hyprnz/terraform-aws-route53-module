@@ -1,5 +1,5 @@
 variable "zone_name" {
-  description = "Name of zone - matches the domain or sub domain name"
+  description = "Name of zone - usually matches the domain name"
 }
 
 variable "tags" {
