@@ -17,6 +17,6 @@ Allows for independent resource creation of route53 resources, as typically requ
 
 | Name | Description |
 |------|-------------|
-| hosted\_zone\_id |  |
-| name\_servers |  |
+| hosted\_zone\_id | The hosted zone id |
+| name\_servers | Name servers for the hosted zone |
 
