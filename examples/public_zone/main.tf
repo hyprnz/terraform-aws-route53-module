@@ -7,4 +7,3 @@ module "example_public_zone" {
 output "host_zone_id" {
   value = "${module.example_public_zone.hosted_zone_id}"
 }
-
