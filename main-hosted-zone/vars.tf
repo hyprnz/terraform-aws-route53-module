@@ -6,3 +6,4 @@ variable "tags" {
   description = " any tags to add to hosted zone"
   default     = {}
 }
+
