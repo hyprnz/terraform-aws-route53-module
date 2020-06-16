@@ -1,5 +1,5 @@
-# Terraform-route53-module
-A Terraform Module for managing route53 resources using a multi AWS accounts.
+# Terraform-aws-route53-module
+A Terraform Module for managing route53 resources
 
 Allows for independent resource creation of route53 resources, as typically required for a multi AWS Account environment.
 
