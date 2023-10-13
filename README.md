@@ -1,4 +1,7 @@
 # Terraform-aws-route53-module
+
+**This module is no longer being maintained** <br/>
+
 A Terraform Module for managing route53 resources
 
 Allows for independent resource creation of route53 resources, as typically required for a multi AWS Account environment.
